@@ -1,5 +1,8 @@
 <?php
-
+/**
+* Login: test11@example.com
+* Password: MyNewPass
+*/
 use Magento\Framework\App\Bootstrap;
 
 require 'app/bootstrap.php';
