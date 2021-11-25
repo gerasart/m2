@@ -1,1 +1,1 @@
-# m2 scripts
+# Magento 2 php scripts
